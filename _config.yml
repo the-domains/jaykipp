@@ -1,7 +1,7 @@
 name: JayKipp
 favicon: null
-layout_spectrum: 0.7641569671686739
-typography_spectrum: 0.25716457003727555
+layout_spectrum: 0.16288936464115977
+typography_spectrum: 0.7195816158782691
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.23145269323140383
-  lightness: 0.2719015800394118
-  saturation: 0.4267700584605336
-  rhythmicContrast: 0.22132432204671204
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8206533116754144
+  lightness: 0.9050741661339998
+  saturation: 0.38680186681449413
+  rhythmicContrast: 0.1582028295379132
 purpose: []
